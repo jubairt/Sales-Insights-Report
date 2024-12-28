@@ -30,16 +30,15 @@ Take a quick look at the dashboards I created:
 ## 🛠 **How This Was Built**  
 
 1. **Dataset**: Sourced from **SQL database**.  
-2. **Data Transformation**: Applied cleaning, merging, and modeling techniques in **Power Query**.  
+2. **Data Transformation**: Applied cleaning, and modeling techniques in **Power Query**.  
 3. **Visualization**: Built using **Power BI**, leveraging slicers, charts, and KPI cards.  
 
 ---
 
 ## 💻 **Resources and Tools**  
 
-- **Tutorials**: Followed [Codebasics YouTube Tutorial](https://www.youtube.com/playlist?list=PLZoTAELRMXVNkO8qcqfkt9RPvr7WmBA2E)  
-- **Power BI Service**: [View Online Dashboard](https://powerbi.microsoft.com/en-us/)  
-- **GitHub Repository**: [Explore the Code](https://github.com/yourusername/yourrepositoryname)  
+- **Tutorials**: Followed [Codebasics YouTube Tutorial](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=BUdvzYWuouEOxVgh)  
+- **Power BI Service**: [View Online Dashboard](https://app.powerbi.com/links/jxhmHPaZ4l?ctid=2f313ec5-161d-4e8e-ba72-3e09a9944908&pbi_source=linkShare)  
 
 ---
 
@@ -48,11 +47,12 @@ Take a quick look at the dashboards I created:
 - **Total Revenue**: ₹985M  
 - **Sales Quantity**: 2M Units  
 - **Profit Margin**: ₹24.7M  
+- **Top Customer**: Electricalsara Stores, contributing 42% of the revenue.  
+- **Top Performing Market**: Delhi NCR, contributing 52.8% of the total revenue.  
+- **Top Product**: Prod040, accounting for 86.51% of the sales.  
+- **Profit Margins**: Highest profit margin observed in Premium Stores.  
+- **Seasonal Trends**: Revenue fluctuates over time with a noticeable decline in 2020.  
+- **E-commerce Growth**: A significant chunk of revenue is generated from E-commerce customers.  
+- **Low-Contributing Markets**: Regions like Bhubaneswar and Bengaluru have minimal impact on overall performance.  
 
 ---
-
-## 📥 **How to Use This Repository**  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/yourusername/yourrepositoryname.git  
