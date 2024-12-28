@@ -7,13 +7,13 @@ Welcome to my **Sales Insights Dashboard** project! This dashboard is created us
 ## 🎥 **Dashboard Screenshots**  
 Take a quick look at the dashboards I created:  
 
-### Page 1: Sales and Revenue Overview  
+### Page 1: Sales Analysis 
 ![Sales Analysis](https://github.com/jubairt/Sales-Insights-Report/blob/main/Sales%20Analysis.png)  
 
 ### Page 2: Profit Analysis  
 ![Profit Analysis](https://github.com/jubairt/Sales-Insights-Report/blob/main/Profit%20Analysis.png)  
 
-### Page 3: Market Performance  
+### Page 3: Performance Analysis
 ![Performance Analysis](https://github.com/jubairt/Sales-Insights-Report/blob/main/Performance%20Analysis.png)  
 
 ---
@@ -56,3 +56,12 @@ Take a quick look at the dashboards I created:
 - **Low-Contributing Markets**: Regions like Bhubaneswar and Bengaluru have minimal impact on overall performance.  
 
 ---
+
+## 🔍 **Conclusion**  
+
+This Sales Insights Dashboard demonstrates the power of data-driven decision-making. By analyzing revenue, profit margins, and market performance, we can identify key growth opportunities, focus on high-performing customers and regions, and address underperforming areas.  
+
+With the integration of **Power BI**, **SQL**, and **Power Query**, this project highlights how advanced data analytics can transform raw data into actionable insights, enabling businesses to make smarter decisions and stay ahead in competitive markets.  
+
+Feel free to explore, customize, and draw your own insights from this project! 🚀  
+
